@@ -261,7 +261,8 @@ padding-bottom: 2px;
     position: absolute;
     cursor: move;
     top: 4px;
-    background: url(../img/Slider.png);
+    background: url(../img/Slider.png) no-repeat;
+    margin-left:-52px;
 }
 #content-scroll {
     width: 841px;
